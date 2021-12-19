@@ -1,0 +1,24 @@
+{
+  "name": "pwabudgettracker",
+  "version": "1.0.0",
+  "description": "This PWA updates an existing budget tracker application to allow for offline access and functionality. ",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dghooley/PWABudgetTracker.git"
+  },
+  "author": "Derick Hooley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dghooley/PWABudgetTracker/issues"
+  },
+  "homepage": "https://github.com/dghooley/PWABudgetTracker#readme"
+}
