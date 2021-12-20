@@ -41,7 +41,6 @@ function populateTable() {
 }
 
 function populateChart() {
-  // copy array and reverse it
   let reversed = transactions.slice().reverse();
   let sum = 0;
 
@@ -152,7 +151,9 @@ document.querySelector("#sub-btn").onclick = function() {
   sendTransaction(false);
 };
 
+/*
 document.querySelector("#del-btn").addEventListener("click", function(event) {
   event.preventDefault();
   deletePending();
 });
+*/
