@@ -4,7 +4,8 @@
   "description": "This PWA updates an existing budget tracker application to allow for offline access and functionality. ",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mongoose": "^6.1.2"
   },
   "devDependencies": {},
   "scripts": {
