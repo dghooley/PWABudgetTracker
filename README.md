@@ -23,6 +23,10 @@ The User will be able to add expenses and deposits to their budget with or witho
 node server.js
 ```
 
+### Screenshot
+<img width="1215" alt="Screen Shot 2021-12-19 at 9 37 43 PM" src="https://user-images.githubusercontent.com/29662632/146949336-c9e43713-3af1-4953-afff-2b7285e5d26c.png">
+
+
 
 ### Deployed URL
 https://hidden-castle-41157.herokuapp.com/
